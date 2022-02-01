@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFEB3B</color>
+    <color name="purple_500">#FFC107</color>
+    <color name="purple_700">#FF9800</color>
+    <color name="teal_200">#CDDC39</color>
+    <color name="teal_700">#FFEB3B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //Home
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    //Detail
+    <color name="green">#14EF0E</color>
+    <color name="gray">#D5252424</color>
+
+</resources>

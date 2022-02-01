@@ -1,0 +1,4 @@
+rootProject.name = "Super Hero"
+include ':app'
+include ':core'
+include ':favorites'

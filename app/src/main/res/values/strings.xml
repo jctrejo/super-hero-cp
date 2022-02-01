@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Super Hero</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    ///Home
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dummy_name">Superman</string>
+    <string name="instructions">+/- to favorites!</string>
+    <string name="dummy_title">Title</string>
+    <string name="dummy_stats">Name: Superman</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="search_superhero">Search your superhero..</string>
+    <string name="movie_download">Descargar</string>
+    <string name="movie_qualify">Calificar</string>
+    <string name="movie_share">Compartir</string>
+    <string name="movie_more_movie">Más títulos similares</string>
+    <string name="movie_new">Nuevo</string>
+    <string name="movie_time">1 h 28 min</string>
+    <string name="home_play">Reproducir</string>
+</resources>
