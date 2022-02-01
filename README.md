@@ -1,18 +1,26 @@
-# Super-Hero - Jose Trejo
-
-## Consumo de servicio
-* Retrofir
+# Super-Hero - JoseT
 
 ## Arquitectura utilizada
 * MVVM modulos
 
-## Test
-* Se agrego Pruebas unitarias en una de las partes de una alerta
+## Consumo de servicio
+* Retrofit
 
-## Descripccion de aplicacion
-* Navegacion con conponente "navegation" agregando interfaces y conexiones de fragmen a fragmento, enviando datos entre ellos con "argument".
-* Esta app fue realizado con componentes como jetpack con algunos de sus componentes de interfaz, utilizando corutinas al ser llamado de servicios opteniendo mayor   legilidad de datos y optimisacion para el control de fuga de memoria.
-* Utilizando injection de dependencias.
+## Android Compose
+* Navegation
+* Dagger
+* Glide
+* Rxjava
+* Room
+* ViewBinding
+
+## Test
+* Se agrego Pruebas unitarias
+
+## Descripción de aplicación
+* Navegación con componente "navegation" agregando interfaces y conexiones de fragmen a fragmento, enviando datos entre ellos con "argument".
+* Esta app fue realizado con componentes como jetpack con algunos de sus componentes de interfaz, utilizando corutinas al ser llamado de servicios obteniendo mayor legilidad de datos y optimización para el control de fuga de memoria.
+* Usando injection de dependencias.
 * Se uso lottie en el Splash de la app.
 
 ### Class files ###
@@ -24,7 +32,7 @@
 ## String constants, naming, and values ##
 
 * Muchos elementos del SDK de Android, como SharedPreferences, Bundle o Intent, utilizan un enfoque de par clave-valor, por lo que es muy probable que incluso para una aplicación pequeña termine teniendo que escribir muchas constantes de cadena.
-* Cuando utilice uno de estos componentes, debe definir las claves como campos finales estáticos y deben tener el prefijo que se indica a continuación.
+* Cuando use uno de estos componentes, debe definir las claves como campos finales estáticos y deben tener el prefijo que se indica a continuación.
 
 | Element | Field Name Prefix |
 | --- | --- | --- |
